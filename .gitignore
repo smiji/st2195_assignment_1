@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+python/.ipynb_checkpoints/my_first_jupyter_notebook-checkpoint.ipynb
+*.ipynb
+python/.spyproject/config/workspace.ini
