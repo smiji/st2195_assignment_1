@@ -1,0 +1,32 @@
+---
+title: "Data science programming"
+author: "Smiji Skariah John"
+date: "2023-11-20"
+output: 
+  html_document: 
+    toc: yes
+---
+
+# R Basics
+
+## 1.Introduction to R Markdown
+### 1.1. Types of heading
+- Use '#' for heading 1
+- Use ## for heading 2
+
+### 1.2. Making bold
+- Use ** for bold , eg **for others **
+    
+### 1.3. Making Italics
+  - Use * for italics , eg-> *for Italics*
+  - Use *** for bold Italics , eg->  ***for bold Italics***
+
+## 2. Introduction to R programming language
+### 2.1. Printing numbers from 1 to 10 using for loop
+```{r}
+#The for loop to print number from 1 to 10 including 1 and 10
+for (i in 1 : 10) {
+  print(i)
+}
+```
+
